@@ -10,6 +10,7 @@ namespace EbayScraperConsole
     {
         static void Main(string[] args)
         {
+            //initial commit
         }
     }
 }
