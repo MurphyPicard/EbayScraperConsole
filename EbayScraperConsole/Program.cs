@@ -6,10 +6,12 @@ using System.Text;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
 
+// Helpful link...
+// https://www.youtube.com/watch?v=B4x4pnLYMWI
+
 namespace EbayScraperConsole
 {
-
-
+    
     class Program
     {
         static void Main(string[] args)
